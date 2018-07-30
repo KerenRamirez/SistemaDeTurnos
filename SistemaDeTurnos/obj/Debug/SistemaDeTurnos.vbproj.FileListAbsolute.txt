@@ -2,7 +2,6 @@ c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTu
 c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.exe
 c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.pdb
 c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.xml
-c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbprojResolveAssemblyReference.cache
 c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form1.resources
 c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form2.resources
 c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Resources.resources

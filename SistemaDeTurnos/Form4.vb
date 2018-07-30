@@ -31,7 +31,7 @@
                 tipoVentanilla & (Me.ListaClientesServicios.Items.Count + 1).ToString)
             Return Me.ListaClientesServicios.Items.Count
         End If
-
+        Return -1
     End Function
 
     Public Function removerCliente(tipoVentanilla As String) As Integer

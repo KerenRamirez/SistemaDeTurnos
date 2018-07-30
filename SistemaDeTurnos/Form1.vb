@@ -2,6 +2,7 @@
     Private Sub BtnCaja_Click(sender As Object, e As EventArgs) Handles BtnCaja.Click
         Dim myForm As New Form2("Caja")
         myForm.Show()
+
         'Me.Hide()
     End Sub
 
@@ -18,8 +19,8 @@
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim myForm As New Form3()
-        myForm.Show()
+        'Dim myForm As New Form3()
+        'myForm.Show()
 
         'Dim myForm2 As New Form4()
         'myForm2.Show()
