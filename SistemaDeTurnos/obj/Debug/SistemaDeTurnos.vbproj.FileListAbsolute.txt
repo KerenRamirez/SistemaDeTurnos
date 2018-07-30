@@ -1,0 +1,15 @@
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.exe.config
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.exe
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.pdb
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\bin\Debug\SistemaDeTurnos.xml
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbprojResolveAssemblyReference.cache
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form1.resources
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form2.resources
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Resources.resources
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbproj.GenerateResource.Cache
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.exe
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.xml
+c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.pdb
+C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form3.resources
+C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form4.resources
+C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form5.resources
