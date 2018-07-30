@@ -12,3 +12,4 @@ c:\users\keren\documents\visual studio 2015\Projects\SistemaDeTurnos\SistemaDeTu
 C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form3.resources
 C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form4.resources
 C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.Form5.resources
+C:\Users\keren\Documents\Visual Studio 2015\Projects\SistemaDeTurnos\SistemaDeTurnos\obj\Debug\SistemaDeTurnos.vbprojResolveAssemblyReference.cache
